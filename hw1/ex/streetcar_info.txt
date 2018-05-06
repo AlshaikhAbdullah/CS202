@@ -1,0 +1,8 @@
+Main:north:n:78276:4
+Harrison:west:n:83636:4
+Powell:east:y:53648:4
+Washington:south:y:89327:4
+Lincon:east:n:09253:4
+Market:north:n:12763:4
+Clay:south:n:73836:4
+Madison:west:y:63736:4

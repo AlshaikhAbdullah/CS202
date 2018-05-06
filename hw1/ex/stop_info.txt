@@ -1,0 +1,20 @@
+SW OHSU Commons:n:0908
+SW Bond & lane:y:0407
+SW Lowell & Bond:n:0836
+SW Moody & Gaines:n:0935
+SW Moody & Gibbs:n:0784
+SW Moody & Meade North:n:0103
+SW River Pkwy & Moody:y:0992
+SW 3rd & Harrison:n:0371
+PSU Urban Center:n:0117
+SW Park & Mill:n:0836
+SW 10th & Clay:n:0345
+Art Meusem:y:0114
+Centeral Library:n:0748
+SW 10th & Alder:n:0203
+NW 10th & Couch:n:0832
+NW 10th & Glisan:n:0832
+NW 10th & Jhonson:y:0932
+NW 10th & Northup:n:0637
+NW 12th & Northup:n:0213
+NW 18th & Lovejoy:n:0032
